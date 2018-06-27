@@ -1,8 +1,0 @@
-test.txt
-
-:Author: roby
-:Email: roby@zyj-DGX-Station
-:Date: 2018-06-27 19:57
-
-hello this is for test
-1
