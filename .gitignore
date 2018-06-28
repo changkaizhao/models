@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#pretrain folder
+pretrained/
+
+
 # Distribution / packaging
 .Python
 env/
